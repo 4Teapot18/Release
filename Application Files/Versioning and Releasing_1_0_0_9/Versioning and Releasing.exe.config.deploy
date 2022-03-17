@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<configuration>
+    <configSections>
+        <sectionGroup name="userSettings" type="System.Configuration.UserSettingsGroup, System, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" >
+            <section name="Versioning_and_Releasing.Properties.Settings" type="System.Configuration.ClientSettingsSection, System, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" allowExeDefinition="MachineToLocalUser" requirePermission="false" />
+        </sectionGroup>
+    </configSections>
+    <startup> 
+        <supportedRuntime version="v4.0" sku=".NETFramework,Version=v4.8" />
+    </startup>
+    <userSettings>
+        <Versioning_and_Releasing.Properties.Settings>
+            <setting name="License" serializeAs="String">
+                <value>hiqQEGpqx3lElgkYOXS4eK5uMSub1rRbqom3QAdq2yHHTiLL02omo8r5uAkV0hBZJawgNQnZmLx</value>
+            </setting>
+        </Versioning_and_Releasing.Properties.Settings>
+    </userSettings>
+</configuration>
